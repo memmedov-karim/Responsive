@@ -1,0 +1,333 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.contanier{
+    position:static;
+    height: 1046px;
+    width: 1440px;
+    left: -720px;
+    top: -512px;
+    border-radius: 0px;
+
+}
+
+.elips2{
+    position: absolute;
+width: 366px;
+height: 59px;
+left: 950px;
+top: 511px;
+
+background: #EFEFEF;
+}
+.iki{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 733px;
+top: 740px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+
+color: #000000;
+}
+.uc{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 733px;
+top: 780px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+}
+.dor{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 976px;
+top: 740px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+
+color: #000000;
+}
+.bes{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 976px;
+top: 780px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+}
+h1{
+    position: absolute;
+    width: 365px;
+    height: 93px;
+    left: 124px;
+    top: 96px;
+
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
+
+
+    color: #000000;
+}
+.pp{
+    position: absolute;
+width: 662px;
+height: 374px;
+left: 124px;
+top: 202px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+
+color: #000000;
+}
+.first{
+    position: absolute;
+width: 314px;
+height: 315px;
+left: 976px;
+top: 226px;
+
+background: url(_1.png);
+}
+.sek{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 488px;
+top: 740px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+
+color: #000000;
+}
+.dl{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 488px;
+top: 780px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+}
+.second{
+    position: absolute;
+width: 232px;
+height: 203px;
+left: 124px;
+top: 670px;
+
+background: url(photo.png);
+}
+@media  screen and (max-width:830px) {
+    h1{
+        position: absolute;
+        width: 211.4px;
+        height: 53.86px;
+        left: 72px;
+        top: 56px;
+        font-size: 32px;
+    }
+    .pp{
+        position: absolute;
+        width: 383.41px;
+        height: 216.61px;
+        left: 72px;
+        top: 120.29px;
+    }
+    .first{
+        position: absolute;
+        width: 181.86px;
+        height: 182.44px;
+        left: 565.45px;
+        top: 134.19px;
+
+        background: url(_1.png);
+    }
+    .second{
+        display: none;
+    }
+    .sek{
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 72px;
+        top: 700px;
+        font-size: 15px;
+    }
+    .dl{
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 72px;
+        top: 727.17px;
+        font-size: 11px;
+    }
+    .iki{
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 213.9px;
+        top: 700px;
+        font-size: 15px;
+    }
+    .uc{
+        position: absolute;
+        width: 108px;
+        height: 23px;
+        left: 214.1px;
+        top: 727.95px;
+        font-size: 11px;
+    }
+    .dor{
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 354.63px;
+        top: 700px;
+        font-size: 15px;
+    }
+    .bes{
+        position: absolute;
+        width: 86.88px;
+        height: 22.59px;
+        left: 354.63px;
+        top: 727.17px;
+        font-size: 11px;
+    }
+    
+}
+@media screen and (max-width:375px) {
+    h1{
+        position: absolute;
+width: 170.08px;
+height: 43.34px;
+left: 36px;
+top: 56px;
+font-size: 10px;
+    }
+    .pp{
+        position: absolute;
+width: 308.47px;
+height: 174.27px;
+left: 36px;
+top: 107.72px;
+font-size: 12px;
+    }
+    .first{
+        position: absolute;
+width: 170.55px;
+height: 160.29px;
+left: 101px;
+top: 338px;
+    }
+    .sek{
+        position: absolute;
+width: 69.9px;
+height: 18.17px;
+left: 35px;
+top: 544px;
+font-size: 12px;
+    }
+    .dl{
+        position: absolute;
+width: 86px;
+height: 18px;
+left: 35px;
+top: 563px;
+font-size: 10px;
+    }
+    .iki{
+        position: absolute;
+width: 69.9px;
+height: 18.17px;
+left: 154.16px;
+top: 544px;
+font-size: 12px;
+    }
+    .uc{
+        position: absolute;
+width: 86.89px;
+height: 18.5px;
+left: 154.33px;
+top: 562.46px;
+font-size: 10px;
+    }
+    .dor{
+        position: absolute;
+width: 69.9px;
+height: 18.17px;
+left: 35px;
+top: 615px;
+font-size: 12px;
+
+    }
+    .bes{
+        position: absolute;
+width: 76px;
+height: 18px;
+left: 35px;
+top: 634px;
+font-size: 10px;
+
+    }
+
+    
+}
